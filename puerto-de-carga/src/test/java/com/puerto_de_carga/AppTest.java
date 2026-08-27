@@ -1,4 +1,4 @@
-package com.puerto-de-carga;
+package com.puerto_de_carga;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
